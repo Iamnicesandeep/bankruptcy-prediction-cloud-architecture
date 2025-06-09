@@ -35,23 +35,17 @@ To build a robust cloud data architecture that enables end-to-end bankruptcy ris
 
 ## 🗂️ Repository Structure
 
-- **data/**  
-  - `Full_prediction.csv`: Model predictions and key metrics.  
-  - `Bankruptcy_Prediction.xlsx`: Supporting analysis and reports.  
-
-- **visualizations/**  
-  - `Advanced Metrics.png`: Model evaluation metrics.  
-  - `Confusion Matrix.png`: Confusion matrix showing prediction results.  
-  - `Column Impact.png`: Top features influencing bankruptcy risk predictions.  
-  - `Precision Recall Curve.png`: Precision-recall performance.  
-  - `Impact of net income_to_total assets on prediction of bankrupt.png`: Feature impact visualization.  
-
-- **media/**  
-  - `Final Presentation.mp4`: Project demo video.  
-  - `Cloud Tech.pptx`: Project architecture and recommendations.  
-  - `Sandeep Cloud tech.docx`: Technical documentation.  
-
-- **README.md**
+- `Full_prediction.csv`: Model predictions and key metrics.  
+- `Bankruptcy_Prediction.xlsx`: Supporting analysis and reports.  
+- `Advanced Metrics.png`: Model evaluation metrics.  
+- `Confusion Matrix.png`: Confusion matrix showing prediction results.  
+- `Column Impact.png`: Top features influencing bankruptcy risk predictions.  
+- `Precision Recall Curve.png`: Precision-recall performance.  
+- `Impact of net income_to_total assets on prediction of bankrupt.png`: Feature impact visualization.  
+- `Final Presentation.mp4`: Project demo video.  
+- `Cloud Tech.pptx`: Project architecture and recommendations.  
+- `Sandeep Cloud tech.docx`: Technical documentation.  
+- `README.md`
 
 ---
 
@@ -67,19 +61,19 @@ To understand the end-to-end pipeline and model performance, watch the project p
 ## 🖼️ Key Visualizations
 
 ### 📊 Advanced Metrics
-![Advanced Metrics](visualizations/Advanced Metrics.png)
+![Advanced Metrics](Advanced Metrics.png)
 
 ### 📈 Confusion Matrix
-![Confusion Matrix](visualizations/Confusion Matrix.png)
+![Confusion Matrix](Confusion Matrix.png)
 
 ### 🔎 Column Impact
-![Column Impact](visualizations/Column Impact.png)
+![Column Impact](Column Impact.png)
 
 ### 📉 Precision Recall Curve
-![Precision Recall Curve](visualizations/Precision Recall Curve.png)
+![Precision Recall Curve](Precision Recall Curve.png)
 
 ### 🧩 Impact of Net Income to Total Assets
-![Feature Impact](visualizations/Impact of net income_to_total assets on prediction of bankrupt.png)
+![Impact of Net Income to Total Assets](Impact of net income_to_total assets on prediction of bankrupt.png)
 
 ---
 
